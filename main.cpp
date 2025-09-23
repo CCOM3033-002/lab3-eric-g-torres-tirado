@@ -55,7 +55,7 @@ int main () {
         Num_Mayor = Num_Ale3;
         if (Num_Ale1 >= Num_Ale2) {
             Num_Medio = Num_Ale1;
-            Num_Menor = Mum_Ale2;
+            Num_Menor = Num_Ale2;
         } else {
             Num_Medio = Num_Ale2;
             Num_Menor = Num_Ale1;
