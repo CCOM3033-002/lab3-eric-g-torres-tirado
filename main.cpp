@@ -63,7 +63,7 @@ int main () {
     }
 
     //Desplegar los números en orden descendiente.
-    cout << "Orden descendiente: " << Num_Mayor << ">=" << Num_Medio << ">=" << Num_Menor;
+    cout << "Orden descendiente: " << Num_Mayor << ">=" << Num_Medio << ">=" << Num_Menor << endl;
 
     return 0;
 }
