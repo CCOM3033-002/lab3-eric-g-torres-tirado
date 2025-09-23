@@ -19,7 +19,7 @@ int main () {
     int Num_Ale3 = rand () % (100 - 0 + 1) + 0;
 
     //Desplegar los números generados en el orden en que se generaron.
-    cout <<"Números aleatorios generados: " << Num_Ale1 << ", " << Num_Ale2 << ", " << Num_Ale3;
+    cout <<"Números aleatorios generados: " << Num_Ale1 << ", " << Num_Ale2 << ", " << Num_Ale3 << endl;
 
     /*Determinar el número mayor, el del medio y el menor con estructuras de decisión.
     Primero definiré las variables del mayor, del que está en el medio y del menor.*/
