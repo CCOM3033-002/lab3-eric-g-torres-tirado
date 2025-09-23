@@ -14,9 +14,9 @@ int main () {
     srand(time(0));
 
     //Utilizar la formula para generar y guardar 3 números aleatorios.
-    int Num_Ale1 = rand () % (100 - 0 + 1) + 0
-    int Num_Ale2 = rand () % (100 - 0 + 1) + 0
-    int Num_Ale3 = rand () % (100 - 0 + 1) + 0
+    int Num_Ale1 = rand () % (100 - 0 + 1) + 0;
+    int Num_Ale2 = rand () % (100 - 0 + 1) + 0;
+    int Num_Ale3 = rand () % (100 - 0 + 1) + 0;
 
     //Desplegar los números generados en el orden en que se generaron.
     cout <<"Números aleatorios generados: " << Num_Ale1 << ", " << Num_Ale2 << ", " << Num_Ale3;
